@@ -4,3 +4,4 @@ Ideas: cancel the gym if I don't go twice a week.
 Ideas: cancel the magazine.
 line 1
 line 2
+line 3
